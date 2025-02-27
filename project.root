@@ -1,0 +1,12 @@
+
+# --- preliminary'tools/cmdswap                                  [project.root]
+# [2025-02-27][19:30:00] 001 Kartonagnick PRE
+# [2025-02-27][04:10:00] registration on github
+# [2025-02-27][02:51:20] birthday of the project
+
+#------------------------------------------------------------------------------
+
+INCLUDE_CONFIGURATIONS = all
+EXCLUDE_CONFIGURATIONS = mingw494:32:all:static
+VERSION = ver-0.0.1
+
