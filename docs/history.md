@@ -5,7 +5,7 @@
 [S]: icons/success.png
 [B]: icons/bug.png
 
-[![P]][H] **История изменений**  
+[![S]][H] **История изменений**  
 --------------------------------------------------------------------------------
 
 27 февраля 2025, 04:10:00. Зарегистрирован на [Github]  
@@ -23,7 +23,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.1 (rep)**
+[![S]][H] **v0.0.1 (rep)**
 --------------------------------------------------------------------------------
 [![V]][VE001] [![2025-02-27 19:30]][VE001]  
 
@@ -36,38 +36,38 @@
 | 2025-02-27 | 04:20 | [#1-rep-first] | BEGIN  |  
 
 1. add: `docs`  
-   - add: `logo.png`         (001) PRE  
-   - add: `changelog.md`     (001) PRE  
-   - add: `chrono.md`        (001) PRE  
-   - add: `history.md`       (001) PRE  
-   - add: `docs.md`          (001) PRE  
+   - add: `logo.png`          001  
+   - add: `changelog.md`      001  
+   - add: `chrono.md`         001  
+   - add: `history.md`        001  
+   - add: `docs.md`           001  
    - add: `icons` ...        (002)  
 2. add: `docs/docs`  
-   - add: `settings.md`      (001) PRE  
-   - add: `project_root.md`  (001) PRE  
-   - add: `first_build.md`   (001) PRE  
-   - add: `get_started.md`   (001) PRE  
-   - add: `compatibility.md` (001) PRE  
-   - add: `commands.md`      (001) PRE  
+   - add: `settings.md`       001  
+   - add: `project_root.md`   001  
+   - add: `first_build.md`    001  
+   - add: `get_started.md`    001  
+   - add: `compatibility.md`  001  
+   - add: `commands.md`       001  
 3. add: `docs/docs/commands`  
-   - add: `install.md`       (001) PRE  
-   - add: `generate.md`      (001) PRE  
-   - add: `customize.md`     (001) PRE  
-   - add: `build.md`         (001) PRE  
+   - add: `install.md`        001  
+   - add: `generate.md`       001  
+   - add: `customize.md`      001  
+   - add: `build.md`          001  
 4. add: `docs/docs/reference`  
-   - add: `symptoms.md`      (001) PRE  
-   - add: `request.md`       (001) PRE  
-   - add: `filemask.md`      (001) PRE  
+   - add: `symptoms.md`       001  
+   - add: `request.md`        001  
+   - add: `filemask.md`       001  
 5. add: `docs/docs/details`  
-   - add: `variables.md`     (001) PRE  
-   - add: `notation.md`      (001) PRE  
-   - add: `expand.md`        (001) PRE  
-   - add: `misc.md`          (001) PRE  
+   - add: `variables.md`      001  
+   - add: `notation.md`       001  
+   - add: `expand.md`         001  
+   - add: `misc.md`           001  
 6. add: `docs/other`  
    - add: `calendar.md`  
-7. add: `.gitlab-ci.yml`     (002) PRE  
-8. add: `.gitignore`         (002) PRE  
-9. add: `project.root`       (001) PRE  
+7. add: `.gitlab-ci.yml`      002  
+8. add: `.gitignore`          002  
+9. add: `project.root`        001  
 10. fix: `README.md`  
 11. fix: `LICENSE`  
 
